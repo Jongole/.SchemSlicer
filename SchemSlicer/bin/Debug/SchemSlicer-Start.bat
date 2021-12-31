@@ -1,0 +1,1 @@
+start SchemSlicer.exe ".\\Schem input\\Debug"
